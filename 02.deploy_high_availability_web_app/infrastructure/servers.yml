@@ -109,7 +109,7 @@ Resources:
       LaunchTemplateData:
         ImageId: !Ref InstanceAMI
         InstanceType: !Ref InstanceType
-        KeyName : !Sub "${EnvironmentName}-KeyPair"
+        # KeyName : !Sub "${EnvironmentName}-KeyPair"
         IamInstanceProfile:
           Name: !Ref InstanceProfile
         SecurityGroupIds:
