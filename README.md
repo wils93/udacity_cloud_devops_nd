@@ -25,7 +25,7 @@ It consists of 5 projects, where the submissions will be updated here.
 
 ## Projects
 1. [Deploy Static Website on AWS](./01.deploy_static_website_on_aws)
-2. Deploy a high-availability web app using CloudFormation
+2. [Deploy a high-availability web app using CloudFormation](./02.deploy_high_availability_web_app)
 3. Give Your Application Auto-Deploy Superpowers
 4. Operationalize a Machine Learning Microservice API
 5. Capstone

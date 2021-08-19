@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "MyIp",
+        "ParameterValue": "<myGlobalIp>"
+    },
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramWebApp"
+    },
+    {
+        "ParameterKey": "InstanceAMI",
+        "ParameterValue": "ami-0747bdcabd34c712a"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.medium"
+    },
+    {
+        "ParameterKey": "LaunchTemplateVersion",
+        "ParameterValue": "9"
+    }
+]
