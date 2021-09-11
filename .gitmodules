@@ -1,0 +1,4 @@
+[submodule "03.give_your_application_auto_deploy_superpowers"]
+	path = 03.give_your_application_auto_deploy_superpowers
+	url = git@github.com:wils93/udacity_udapeople_prj3.git
+    branch = master
