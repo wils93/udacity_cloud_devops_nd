@@ -27,7 +27,7 @@ It consists of 5 projects, where the submissions will be updated here.
 1. [Deploy Static Website on AWS](./01.deploy_static_website_on_aws)
 2. [Deploy a high-availability web app using CloudFormation](./02.deploy_high_availability_web_app)
 3. [Give Your Application Auto-Deploy Superpowers](https://github.com/wils93/udacity_udapeople_prj3/#readme)
-4. Operationalize a Machine Learning Microservice API
+4. [Operationalize a Machine Learning Microservice API](https://github.com/wils93/udacity_ml_microservice_prj4/#readme)
 5. Capstone
 
 <!-- MARKDOWN LINKS & IMAGES -->

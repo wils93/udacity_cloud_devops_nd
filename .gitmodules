@@ -2,3 +2,7 @@
 	path = 03.give_your_application_auto_deploy_superpowers
 	url = git@github.com:wils93/udacity_udapeople_prj3.git
     branch = master
+[submodule "04.operationalize_ml_microservice_api"]
+	path = 04.operationalize_ml_microservice_api
+	url = git@github.com:wils93/udacity_ml_microservice_prj4.git
+    branch = master
