@@ -6,3 +6,7 @@
 	path = 04.operationalize_ml_microservice_api
 	url = git@github.com:wils93/udacity_ml_microservice_prj4.git
     branch = master
+[submodule "05.capstone"]
+	path = 05.capstone
+	url = git@github.com:wils93/udacity_capstone_prj5.git
+	branch = master
